@@ -1,0 +1,12 @@
+
+ Everything in computing is a hierarchy of abstractions.
+
+⚡ Electrons -> 🔌 Transistors
+🔌 Transistors -> 🧮 Logic Gates
+🧮 Logic Gates -> 🖥️ CPU
+🖥️ CPU -> 💾 Memory
+💾 Memory -> ⚙️ Operating System
+⚙️ Operating System -> 💻 Programming Language
+💻 Programming Language -> 🚀 Application
+🚀 Application -> 🌍 Internet
+🌍 Internet -> 🤖 AI
