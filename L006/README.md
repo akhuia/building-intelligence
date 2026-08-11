@@ -1,57 +1,66 @@
-# Day 006 — Discovery
+# Chapter 006 — Truth
 
 ## Core Idea
 
-Knowledge grows by answering questions.
-
-Every answer should naturally reveal the next unanswered question.
+Truth assigns a value to a statement.
 
 ```
-Abstraction
-        ↓
-State
-        ↓
-Information
-        ↓
-Representation
-        ↓
-Binary
-        ↓
-?
+Sky is blue.
 ```
 
-Instead of deciding what comes next (which is just subtle conformity to established / "right" structure),
+↓
 
-we let the unanswered question determine the next step.
+```
+True
+```
 
-Today, the most natural question for the AI I am doing this with is:
+```
+Fish can fly.
+```
 
-> **How can only two symbols represent everything?**
+↓
 
-Tomorrow's exploration begins there.
+```
+False
+```
+
+The statement carries meaning.
+
+The truth value expresses whether the statement is considered true or false.
 
 ---
 
 ## Example
 
-`discovery.py` prints the sequence of questions that has guided this repository so far.
-
-The program is intentionally simple.
-
-The important part is the progression of ideas.
+`truth.py` represents two simple statements using truth values.
 
 ---
 
 ## Think
 
-When learning something new,
+Can every statement always be classified as either
 
-are you following someone else's map,
-
-or discovering your own?
+- True
+- False
 
 ---
 
 ## Key Takeaway
 
-**Every good answer should create a better question.**
+**Truth is a property of a statement, not the statement itself.**
+
+---
+
+## Journey So Far
+
+Abstraction
+↓
+State
+↓
+Information
+↓
+Representation
+↓
+Binary
+↓
+Truth
